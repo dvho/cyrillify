@@ -1,5 +1,5 @@
 # Cyrillify
-Cyrillify obfuscates your text with Cyrillic homoglyphs. There are 15 uppercase and 7 lowercase identical homoglyphs shared between English and Cyrillic character sets. Each character in each pair has a distinct and unrelated ASCII code from its homoglyphic counterpart, yet an identical character manifestation across most regular font weights and types. Swapping out English characters with their Cyrillic equivalents has the benefit of obfuscating text, cloaking the content of pages from scrapers and bots while allowing humans to read content as normal.
+_Cyrillify_ obfuscates your text with Cyrillic homoglyphs. There are 15 uppercase and 7 lowercase identical homoglyphs shared between English and Cyrillic character sets. Each character in each pair has a distinct and unrelated ASCII code from its homoglyphic counterpart, yet an identical character manifestation across most regular font weights and types. Swapping out English characters with their Cyrillic equivalents has the benefit of obfuscating text, cloaking the content of pages from scrapers and bots while allowing humans to read content as normal.
 
 <img src="https://user-images.githubusercontent.com/45696445/51097826-161bd700-1795-11e9-8df3-e5122f7f6777.gif">
 
@@ -64,17 +64,17 @@ xn-- nl th igtil mnk rlibl dvld  svr mtbli rgni idsis rsmbling tht bsrvd in humn
 _________________________
 &nbsp;
 ## Notes
-Cyrillify obfuscates your text with Cyrillic homoglyphs. There are 15 uppercase and 7 lowercase identical homoglyphs shared between English and Cyrillic character sets. Each character in each pair has a distinct and unrelated ASCII code from its homoglyphic counterpart, yet an identical character manifestation across most regular font weights and types.
+_Cyrillify_ obfuscates your text with Cyrillic homoglyphs. There are 15 uppercase and 7 lowercase identical homoglyphs shared between English and Cyrillic character sets. Each character in each pair has a distinct and unrelated ASCII code from its homoglyphic counterpart, yet an identical character manifestation across most regular font weights and types.
 
-Cyrillify's output will appear identical to its input, however, the code used to represent it will be different. We can verify Cyrillify's work in two ways:
+_Cyrillify's_ output will appear identical to its input, however, the code used to represent it will be different. We can verify _Cyrillify's_ work in two ways:
 ##### &nbsp;&nbsp;&nbsp;&nbsp; Punycode Verification
->Punycode is a representation of Unicode with ASCII. It is the encoding system used in encoding internationalized domain names. We can verify Cyrillify's work by using any of the widely available Punycode converters, checking the associated Punycode of the output to ensure that it differs from the input (see examples below).
+>Punycode is a representation of Unicode with ASCII. It is the encoding system used in encoding internationalized domain names. We can verify _Cyrillify's_ work by using any of the widely available Punycode converters, checking the associated Punycode of the output to ensure that it differs from the input (see examples below).
 ##### &nbsp;&nbsp;&nbsp;&nbsp; RegEx Verification
->The quickest way to verify Cyrillify's work via regex is to hit Ctrl+F on Windows, or Command+F on Mac, and search some of the Cyrillified content to see if the computer can identify it.
+>The quickest way to verify _Cyrillify's_ work via regex is to hit Ctrl+F on Windows, or Command+F on Mac, and search some of the _Cyrillified_ content to see if the computer can identify it.
 
 Swapping English characters with their Cyrillic equivalents has the benefit of obfuscating text, cloaking the content of pages from scrapers and bots while allowing humans to read content as normal. This is particularly useful in shrouding email addresses from bots without compromising their visibility in the browser from humans.
 
-In the event that you are posting and Cyrillifying 'spun' articles, search engine web crawlers such as Googlebot, Bingbot, etc., will not identify the duplicate content, hence, will not penalize nor demote your SERP ranking. Cyrillify can therefore be used as both a weapon and a shield. Behave yourself!
+In the event that you are posting and _Cyrillifying_ 'spun' articles, search engine web crawlers such as Googlebot, Bingbot, etc., will not identify the duplicate content, hence, will not penalize nor demote your SERP ranking. _Cyrillify_ can therefore be used as both a weapon and a shield. Behave yourself!
 
 ## Installation
 With [npm](http://npmjs.org) do
