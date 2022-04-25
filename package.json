@@ -1,6 +1,6 @@
 {
     "name": "cyrillify",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Cyrillify obfuscates your text with Cyrillic homoglyphs. There are 15 uppercase and 7 lowercase identical homoglyphs shared between English and Cyrillic character sets. Each character in each pair has a distinct and unrelated ASCII code from its homoglyphic counterpart, yet an identical character manifestation across most regular font weights and types. Swapping English characters with their Cyrillic equivalents has the benefit of obfuscating text, cloaking the content of pages from scrapers and bots while allowing humans to read content as normal. This is particularly useful in shrouding email addresses from bots without compromising their visibility in the browser from humans. In the event that you are posting and Cyrillifying 'spun' articles, search engine web crawlers such as Googlebot, Bingbot, etc., will not identify the duplicate content, hence, will not penalize nor demote your SERP ranking. Cyrillify can therefore be used as both a weapon and a shield. Behave yourself!",
     "main": "cyrillify.js",
     "scripts": {
